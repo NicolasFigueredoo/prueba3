@@ -17,7 +17,7 @@
     //enviando mensaje
    
     mail($destinatario, $asunto, $carta);
-    header('location:../../index.html');
+    header('location:indexphp.html');
     
 
 
